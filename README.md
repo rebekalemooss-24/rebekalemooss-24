@@ -2,7 +2,7 @@
 
 **Analista de Contratos | Administração | Ciência de Dados e Inteligência Artificial | Power BI**
 
-Sou bacharel em Administração e estudante de pós-graduação em Ciência de Dados e Inteligência Artificial pelo SENAC. Minha trajetória combina gestão de contratos, organização de processos e análise de dados para apoiar decisões mais seguras e eficientes.
+Sou bacharel em Administração e pós-graduada, com MBA em Ciência de Dados e Inteligência Artificial pelo SENAC. Minha trajetória combina gestão de contratos, organização de processos e análise de dados para apoiar decisões mais seguras e eficientes.
 
 Atualmente, estou desenvolvendo projetos para consolidar meus conhecimentos em análise de sistemas, dados, inteligência artificial e experiência do usuário.
 
